@@ -30,7 +30,7 @@ let All_song = [
      name: "first song",
      path: "1.mp3",
      img: "img1.jpg",
-     singer: "1"
+     singer: "hudhoidhjksdjnfdskjnhdsfdsfdsfdsfhgyggggggggggggggggggggggggggg"
    },
    {
      name: "second song",

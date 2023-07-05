@@ -27,34 +27,34 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "first song",
+     name: "City Surface",
      path: "1.mp3",
      img: "img1.jpg",
-     singer: "hudhoidhjksdjnfdskjnhdsfdsfdsfdsfhgyggggggggggggggggggggggggggg"
+     singer: "Cue musical conformado por tres capas instrumentales que pueden implementarse por separado y remezclarse verticalmente. Diseñado para un nivel de juego de ciencia ficción, exploración y misterio que se da en la parte superior de una ciudad abandonada."
    },
    {
-     name: "second song",
+     name: "City Underground",
      path: "2.mp3",
      img: "img2.jpg",
-     singer: "2"
+     singer: "Diseñado para el mismo juego, que City Surface, se trata de un cue musical pensado para el nivel subterráneo de la ciudad, donde el ambiente se vuelve más oscuro y aumenta la tensión."
    },
    {
-     name: "third song",
+     name: "Infinite Dungeon Crawl",
      path: "3.mp3",
      img: "img3.jpg",
-     singer: "3"
+     singer: "Resecuenciación horizontal. Tres secciones musicales para tres niveles de un mismo juego."
    },
    {
-     name: "fourth song",
+     name: "Oriental Base",
      path: "4.mp3",
      img: "img4.jpg",
-     singer: "4"
+     singer: "Pieza diseñada para un nivel de juego de aventura."
    },
    {
-     name: "fifth song",
+     name: "Chiptune",
      path: "5.mp3",
      img: "img5.jpg",
-     singer: "5"
+     singer: "Música chiptune inspirada en la música de Tetris."
    }
 ];
 

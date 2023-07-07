@@ -28,31 +28,31 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "City Surface",
-     path: "1.mp3",
+     path: "1.wav",
      img: "img1.jpg",
      singer: "Cue musical conformado por tres capas instrumentales que pueden implementarse por separado y remezclarse verticalmente. Diseñado para un nivel de juego de ciencia ficción, exploración y misterio que se da en la parte superior de una ciudad abandonada."
    },
    {
      name: "City Underground",
-     path: "2.mp3",
+     path: "2.wav",
      img: "img2.jpg",
      singer: "Diseñado para el mismo juego, que City Surface, se trata de un cue musical pensado para el nivel subterráneo de la ciudad, donde el ambiente se vuelve más oscuro y aumenta la tensión."
    },
    {
      name: "Infinite Dungeon Crawl",
-     path: "3.mp3",
+     path: "3.wav",
      img: "img3.jpg",
      singer: "Resecuenciación horizontal. Tres secciones musicales para tres niveles de un mismo juego."
    },
    {
      name: "Oriental Base",
-     path: "4.mp3",
+     path: "4.wav",
      img: "img4.jpg",
      singer: "Pieza diseñada para un nivel de juego de aventura."
    },
    {
      name: "Chiptune",
-     path: "5.mp3",
+     path: "5.wav",
      img: "img5.jpg",
      singer: "Música chiptune inspirada en la música de Tetris."
    }

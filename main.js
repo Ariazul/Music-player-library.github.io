@@ -52,7 +52,7 @@ let All_song = [
    },
    {
      name: "Chiptune",
-     path: "5.wav",
+     path: "5.mp3",
      img: "img5.jpg",
      singer: "Música chiptune inspirada en la música de Tetris."
    }
